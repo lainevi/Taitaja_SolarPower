@@ -8,5 +8,5 @@ https://github.com/eclipse/paho.mqtt.python
 <br>
 <br>
 Hardware:<br>
-Raspberry Pi 4, 1GB, http://www.raspberrypi.org
+Raspberry Pi 4, 1GB, http://www.raspberrypi.org<br>
 RS485 Shield, http://wiki.seeedstudio.com/RS-485_Shield_for_Raspberry_Pi/

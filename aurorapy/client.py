@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Heavily modified serial client send_and_recv()-function
 # Also whole lot of other modifications like crc-checking will not raise exception, but returns 0 or 1
-# so that code will continue
+# so that code will continue... Not good code, but at least it works :DD
 
 from __future__ import absolute_import
 from past.builtins import map
